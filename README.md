@@ -1,4 +1,4 @@
-# pdf-shift
+# PDF-Editing-Software
 
 ![demo](/docs/images/demo.gif)
 
@@ -7,7 +7,7 @@ PDF Shift is a desktop application that allows you to open a PDF, swap pages, de
 ## Env & Install
 
 This app is built for Windows x64 and Linux x64.  
-The necessary resources are available from the [Release Page](https://github.com/kawana77b/pdf-shift/releases).
+The necessary resources are available from the [Release Page](https://github.com/kawana77b/PDF-Editing-Software/releases).
 
 The Linux version is provided by AppImage and requires execution permissions and Fuse to be available.
 
